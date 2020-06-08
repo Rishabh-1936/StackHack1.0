@@ -13,10 +13,10 @@ The UI of the application is designed in such a manner so that it is interactive
 ### Technologies
 Front-end
 - AngularJS
--HTML5
--CSS
--JavaScript
--JQuery
+- HTML5
+- CSS
+- JavaScript
+- JQuery
 
 Back-end
 - MongoDB
@@ -24,4 +24,5 @@ Back-end
 Servers:
 - ExpressJS
 - MySQL Database
+
 ===
